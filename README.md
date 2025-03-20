@@ -2,7 +2,7 @@
 - I'm currently learning FLask.
 - Contact me
 
-| 邮箱 | tingchieh77@gmail.com |
+| Email | tingchieh77@gmail.com |
 | Twitter | [@TingChieh][1] |
 | Telegram | [@TingChieh][2] |
 
